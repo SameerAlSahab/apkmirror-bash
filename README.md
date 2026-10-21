@@ -2,7 +2,7 @@
 Bash scrapper for apkmirror. Download latest apps from terminal in no time. <br>
 
 # Usage
-<code>bash apkmirror-dl.sh <link>
+<code>bash apkmirror-dl.sh [link]
 </code>
 
 # Example
